@@ -1,9 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <assert.h>
-#include <math.h>
 #include "sort_functions.h"
 
 const long MAXSYMB = 10e6; ///max number of symbols in file
